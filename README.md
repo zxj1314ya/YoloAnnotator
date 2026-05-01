@@ -7,3 +7,5 @@
 <img width="1024" height="793" alt="PixPin_2026-05-01_20-46-20" src="https://github.com/user-attachments/assets/d58445c7-e437-425a-914c-c34cc04c4f1b" />
 
 点击AI自动识别可以自动框选出细胞。
+
+YoloProject文件夹下是关于标注数据的一些文件。
