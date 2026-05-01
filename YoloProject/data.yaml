@@ -1,0 +1,10 @@
+# 这里的路径改成你电脑里实际图片存放的绝对路径 (注意：全部改成正斜杠 '/')
+train: D:\yolo_cell_dataset\images\train 
+val: D:\yolo_cell_dataset\images\val
+
+# 类别数量
+nc: 1
+
+# 类别名称（如果是 0 就对应列表的第一个，即 'cell'）
+names: 
+  0: cell
