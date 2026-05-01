@@ -8,4 +8,4 @@
 
 点击AI自动识别可以自动框选出细胞。
 
-YoloProject文件夹下是关于标注数据的一些文件。
+YoloProject文件夹下包含训练用的标注数据、训练的python代码、标注数据的data.yaml文件。
